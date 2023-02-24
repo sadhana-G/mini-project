@@ -1,0 +1,32 @@
+#headerBox{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    border-radius: 50%;
+}
+#img
+        {  
+            width: 100%;
+            
+            
+        }
+
+#table
+{
+    border-collapse: collapse;
+    width:100%
+}
+#declaration
+{
+    text-align: end;
+    width: 35%;
+    padding-left: 60%;
+}
+#footer
+{
+    width:25%;
+    text-align: start;
+    margin-right: 0;
+    
+}
